@@ -12,6 +12,7 @@ The project includes:
 
 ## Project Files
 
+```text
 📁 E-Commerce-Sales-Analysis
 │
 ├── README.md
@@ -22,25 +23,32 @@ The project includes:
 ├── datas_cleaned.csv
 ├── dashboard1.png
 ├── dashboard2.png
+```
+
+
+## 📁 Dataset
+
+- **Raw Dataset:** `Sample - Superstore.csv`
+- **Cleaned Dataset:** `datas_cleaned.csv`
 
 
 ## Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Power BI
-- Jupyter Notebook
+➜ Python
+➜ Pandas
+➜ NumPy
+➜ Matplotlib
+➜ Power BI
+➜ Jupyter Notebook
 
 
 ## Key Insights
 
-- Identified top-performing product categories.
-- Analyzed sales and profit trends.
-- Examined regional performance.
-- Discovered customer purchasing patterns.
-- Built an interactive Power BI dashboard for business insights.
+1. Identified top-performing product categories.
+2. Analyzed sales and profit trends.
+3. Examined regional performance.
+4. Discovered customer purchasing patterns.
+5. Built an interactive Power BI dashboard for business insights.
 
 
 ## Dashboard Features
@@ -60,6 +68,42 @@ The project includes:
 - Business Intelligence
 - Dashboard Development
 - Data Storytelling
+
+
+## How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/mguptaCodes/E-Commerce-Sales-Analysis.git
+```
+
+### 2. Navigate to the Project Folder
+
+```bash
+cd E-Commerce-Sales-Analysis
+```
+
+### 3. Install Required Python Libraries
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Open the Jupyter Notebook
+
+Launch Jupyter Notebook and open:
+```
+E-commerce.ipynb
+```
+Run all cells sequentially to perform data cleaning and exploratory data analysis.
+
+### 5. Open the Power BI Dashboard
+
+Open the following file using **Power BI Desktop**:
+```
+E-Commerce_dashboard.pbix
+```
 
 
 ## Author
