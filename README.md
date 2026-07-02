@@ -34,12 +34,12 @@ The project includes:
 
 ## Tools & Technologies
 
-➜ Python
-➜ Pandas
-➜ NumPy
-➜ Matplotlib
-➜ Power BI
-➜ Jupyter Notebook
+➜ Python  
+➜ Pandas  
+➜ NumPy  
+➜ Matplotlib  
+➜ Jupyter Notebook  
+➜ Power BI  
 
 
 ## Key Insights
