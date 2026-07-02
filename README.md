@@ -62,7 +62,7 @@ The project includes:
 
 ## Skills Demonstrated
 
-→ Data Cleaning
+* Data Cleaning
 → Exploratory Data Analysis
 → Data Visualization
 → Business Intelligence
