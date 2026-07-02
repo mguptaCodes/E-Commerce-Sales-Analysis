@@ -62,12 +62,12 @@ The project includes:
 
 ## Skills Demonstrated
 
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Business Intelligence
-- Dashboard Development
-- Data Storytelling
+→ Data Cleaning
+→ Exploratory Data Analysis
+→ Data Visualization
+→ Business Intelligence
+→ Dashboard Development
+→ Data Storytelling
 
 
 ## How to Run the Project
